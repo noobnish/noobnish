@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @nishizimaarts
 - 😄 Pronouns: dc 
-- ⚡ Fun fact: im feel dumb only when i study programming 
-
+- ⚡ Fun fact: imma expert python master
 <!---
 noobnish/noobnish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
